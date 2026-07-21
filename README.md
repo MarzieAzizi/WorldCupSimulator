@@ -66,8 +66,9 @@ python main.py
 
 ## Images | تصاویر
 ![menu](Images/menu.png)
-تصویر 1 — منوی اصلی
-![final](Images/knockout_bracket.png)
-تصویر 2 — براکت کامل مراحل حذفی
+
+تصویر منوی اصلی برنامه
+
 ![chart](Images/championship_chart.png)
-تصویر 3 — نمودار میله ای درصد قهرمان 1۶ تیم برتر
+
+تصویر نمودار میله ای درصد قهرمانی 16 تیم برتر
