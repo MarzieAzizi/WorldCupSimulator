@@ -64,10 +64,6 @@ python main.py
 
 ---
 
-## Images | تصاویر
-![menu](Images/menu.png)
-
-تصویر منوی اصلی برنامه
 
 ![chart](Images/championship_chart.png)
 
