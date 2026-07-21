@@ -67,5 +67,5 @@ python main.py
 ## Images | تصاویر
 |                                          |                                              |
 | ---------------------------------------- | -------------------------------------------- |
-| ![menu](screenshots/main_menu.png)       | ![groups](screenshots/group_stage_1.png)     |
-| ![final](screenshots/final_champion.png) | ![chart](screenshots/championship_chart.png) |
+| ![menu](Images/main_menu.png)       | ![groups](Images/group_stage_1.png)     |
+| ![final](Images/final_champion.png) | ![chart](Images/championship_chart.png) |
