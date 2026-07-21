@@ -66,5 +66,8 @@ python main.py
 
 ## Images | تصاویر
 ![menu](Images/menu.png)
-![final](Images/knockout_bracket.png) 
+تصویر 1 — منوی اصلی
+![final](Images/knockout_bracket.png)
+تصویر 2 — براکت کامل مراحل حذفی
 ![chart](Images/championship_chart.png)
+تصویر 3 — نمودار میله ای درصد قهرمان 1۶ تیم برتر
