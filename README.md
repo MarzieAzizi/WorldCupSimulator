@@ -65,7 +65,6 @@ python main.py
 ---
 
 ## Images | تصاویر
-|                                          |                                              |
-| ---------------------------------------- | -------------------------------------------- |
-| ![menu](Images/main_menu.png)       | ![groups](Images/group_stage_1.png)     |
-| ![final](Images/final_champion.png) | ![chart](Images/championship_chart.png) |
+![menu](Images/main_menu.png)       
+![final](Images/final_champion.png) 
+![chart](Images/championship_chart.png) |
