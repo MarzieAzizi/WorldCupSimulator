@@ -65,6 +65,6 @@ python main.py
 ---
 
 
-![chart](Images/championship_chart.png)
+![chart](championship_chart.png)
 
 تصویر نمودار میله ای درصد قهرمانی 16 تیم برتر
