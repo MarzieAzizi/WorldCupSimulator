@@ -65,6 +65,6 @@ python main.py
 ---
 
 ## Images | تصاویر
-![menu](Images/main_menu.png)       
-![final](Images/final_champion.png) 
-![chart](Images/championship_chart.png) |
+![menu](Images/menu.png)
+![final](Images/knockout_bracket.png) 
+![chart](Images/championship_chart.png)
