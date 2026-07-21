@@ -46,6 +46,10 @@ Keep `worldcup_2026_teams.csv` in the same folder.
 - اجرای ۱۰۰۰ شبیه‌سازی و گزارش درصد قهرمانی هر تیم.
 - براکت متنی + نمودار میله‌ای با `matplotlib`.
 
+![chart](championship_chart.png)
+تصویر نمودار میله ای درصد قهرمانی 16 تیم برتر
+
+
 ### اجرا
 ```bash
 pip install numpy matplotlib
@@ -61,10 +65,6 @@ python main.py
 ۵. شبیه‌سازی ۱۰۰۰باره  
 ۶. براکت حذفی  
 ۷. خروج
+![chart](menu.png)
+تصویر منوی اصلی
 
----
-
-
-![chart](championship_chart.png)
-
-تصویر نمودار میله ای درصد قهرمانی 16 تیم برتر
